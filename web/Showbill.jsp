@@ -6,7 +6,7 @@
 	text-decoration: none;
 	text-transform: uppercase;
 	color: yellow;
-	font-size: 15px;
+	font-size: 16px;
 	background-color: navy blue;
 	border: 2px;
 	border-color: white;
